@@ -18,3 +18,10 @@
 
 
 ### Exercício 2
+
+#### Questão 3
+##### Argumentos nesse exemplo serão considerados como strings
+#### Questão 4
+##### Usando if e else para ele fazer a escolha entre os numeros P e N
+#### Questão 8
+##### Usando a função str() que transforma qualquer variavel em string, assim se a entrada for "12345" cada numero vira um caractere para que possar ser contado como digitos separados
